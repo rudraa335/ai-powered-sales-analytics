@@ -1,0 +1,7 @@
+-- use sales_analysis;
+-- select 
+-- sum(sales) as total_sales,
+-- sum(profit) as total_profit,
+-- sum(quantity) as total_quantity,
+-- avg(discount) as avg_discount,
+-- avg(shipping_cost) as avg_shippin_cost from sales;
