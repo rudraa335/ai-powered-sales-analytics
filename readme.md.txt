@@ -47,7 +47,9 @@ The Power BI dashboard includes:
 - Regional profit analysis.
 - Customer segment analysis.
 - Interactive filters.
+![Dashboard 1](Screenshots/Screenshot%20(82).png)
 
+![Dashboard 2](Screenshots/Screenshot%20(81).png)
 Learning Outcomes
 
 - Practical experience with data analysis.
